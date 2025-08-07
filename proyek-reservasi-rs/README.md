@@ -10,4 +10,4 @@ System Analyst – menyusun flow sistem, membuat diagram UML, dan mendesain UI a
 Lucidchart, Figma, Enterprise Architect, Word
 
 📄 **Dokumen Proyek:**  
-[📥 Download Dokumen Analisis (PDF)](./dokumen-analisis.pdf)
+[📥 Download Dokumen Analisis (PDF)](./dokumen-analisis1.pdf)
